@@ -1,0 +1,7 @@
+C:\Tools\Samples\Console\TestThread\TestThread\bin\Debug\TestThread.exe.config
+C:\Tools\Samples\Console\TestThread\TestThread\bin\Debug\TestThread.exe
+C:\Tools\Samples\Console\TestThread\TestThread\bin\Debug\TestThread.pdb
+C:\Tools\Samples\Console\TestThread\TestThread\obj\Debug\TestThread.csprojAssemblyReference.cache
+C:\Tools\Samples\Console\TestThread\TestThread\obj\Debug\TestThread.csproj.CoreCompileInputs.cache
+C:\Tools\Samples\Console\TestThread\TestThread\obj\Debug\TestThread.exe
+C:\Tools\Samples\Console\TestThread\TestThread\obj\Debug\TestThread.pdb
